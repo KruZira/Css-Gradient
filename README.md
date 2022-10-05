@@ -24,6 +24,9 @@ One of the features is the ability to specify gradients using pure CSS3, without
 
 Just clone or Download this repository and host it locally on your Machine 👌
 
+
+
+
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Manisso/Crips/blob/master/LICENSE)
 [![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
