@@ -17,11 +17,12 @@
 
 # Awesome css Gradient
 
-You can use the [editor on GitHub] (https://github.com/kruz26/Css-Gradient/edit/gh-pages/index.md)
-to maintain and preview the content for your website in Markdown files. Whenever you commit
-to this repository GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages
-in your site, from the content in your Markdown files.
+As you might know, HTML5 introduced many exciting features for Web developers.
+One of the features is the ability to specify gradients using pure CSS3, without having to create any images and use them as repeating backgrounds for gradient effects.
 
+## How to Use this ?
+
+Just clone or Download this repository and host it locally on your Machine 👌
 
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Manisso/Crips/blob/master/LICENSE)
 [![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
