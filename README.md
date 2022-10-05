@@ -16,7 +16,7 @@
 </p>
 
 # Awesome css Gradient
-## Welcome to GitHub Pages
+
 You can use the [editor on GitHub] (https://github.com/kruz26/Css-Gradient/edit/gh-pages/index.md)
 to maintain and preview the content for your website in Markdown files. Whenever you commit
 to this repository GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages
@@ -28,4 +28,4 @@ in your site, from the content in your Markdown files.
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
 # Demo
-![ART](https://github.com/KruZira/Css-Gradient/raw/master/image.gif)
+![Demo](https://github.com/KruZira/Css-Gradient/raw/master/image.gif)
